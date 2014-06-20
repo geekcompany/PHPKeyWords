@@ -5,6 +5,7 @@ PHPKeyWords
 ```
 核心组件和外围框架：
 pear pecl yaf yar laravel yii zendframework thinkphp lazyphp
+
 包管理：composer psr规范
 
 IDE和编辑器：phpstrom zendstudio sublime editplus notepad++ vim 
@@ -22,5 +23,4 @@ IDE和编辑器：phpstrom zendstudio sublime editplus notepad++ vim
 ```
 
 ## 其他上下游技术
-```mysql nginx php-fpm apache mod_php5  
-```
+```mysql nginx php-fpm apache mod_php5 ```
