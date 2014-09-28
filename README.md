@@ -17,7 +17,7 @@ IDE和编辑器：phpstrom zendstudio sublime editplus notepad++ vim
 测试工具：phpunit simpletest behat selenium phpspec  
 调试工具：xdebug
 缓存系统：apc xcache zendoptimizer+ 
-模板系统：smarty
+模板系统：smarty twig
 常用前端：bootstrap3 
 支持PHP的云平台：google app engine , sina app engine , baidu app engine  
 ```
